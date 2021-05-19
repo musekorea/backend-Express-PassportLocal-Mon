@@ -1,7 +1,8 @@
 import app from './app';
 import dotenv from 'dotenv';
 import './db';
-import pug from 'pug';
+//import pug from 'pug';
+import model from './db';
 
 dotenv.config();
 
